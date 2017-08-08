@@ -26,11 +26,6 @@ npm run build
 将会生成dist目录
 ```
 
-代码检测：
-
-```bash
-npm run lint
-```
 
 ### 注意事项
 

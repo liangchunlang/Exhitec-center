@@ -4,17 +4,12 @@
 [![Ant Design](https://img.shields.io/badge/ant--design-^2.7.3-yellowgreen.svg?style=flat-square)](https://github.com/ant-design/ant-design)
 [![dva](https://img.shields.io/badge/dva-^1.1.0-orange.svg?style=flat-square)](https://github.com/dvajs/dva)
 
-[![GitHub issues](https://img.shields.io/github/issues/zuiidea/antd-admin.svg?style=flat-square)](https://github.com/zuiidea/antd-admin)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/zuiidea/antd-admin/pulls)
-[![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
-
 演示地址 <http://zuiidea.github.io/antd-admin/>
 
 ## 特性
 
 -   基于[react](https://github.com/facebook/react)，[ant-design](https://github.com/ant-design/ant-design)，[dva](https://github.com/dvajs/dva)，[Mock](https://github.com/nuysoft/Mock) 企业级后台管理系统最佳实践
--   基于[Mock](https://github.com/nuysoft/Mock)实现脱离后端独立开发
+-   基于[Mock]生成模拟数据  当然有些数据是自己直接写死的 （害羞~~）
 -   基于Antd UI 设计语言，提供后台管理系统常见使用场景
 -   基于[dva](https://github.com/dvajs/dva)动态加载 Model 和路由，按需加载
 -   浅度响应式设计
